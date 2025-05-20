@@ -1,3 +1,5 @@
+# copyright [2025] [Phat Nguyen Cong] (Github: https://github.com/paht2005)
+
 import streamlit as st
 from model_loader import load_classifier
 from classify import classify_text

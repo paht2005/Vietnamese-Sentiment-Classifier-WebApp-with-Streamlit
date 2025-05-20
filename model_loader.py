@@ -1,3 +1,5 @@
+# copyright [2025] [Phat Nguyen Cong] (Github: https://github.com/paht2005)
+
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from torch.nn.functional import softmax
 import torch
